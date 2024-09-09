@@ -2,9 +2,10 @@
 <h1 align="center">Hi 👋, I'm Krish Ramani</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU4Nzk5NzQsIm5iZiI6MTcyNTg3OTY3NCwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTA5VDExMDExNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcwMzBlYjRlMzhjMzE4YmYwYTVjNjE1YTVjMGQ1NTliZjQ3NmRhYTYxM2ZkMGE3ZTEwYTg1MjhmYTUxOWRiMzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.k4cSQCKAJrSCDYR6eODntj4BPXUQZb63DjpbdxjFrWs" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishramani02&label=Profile%20views&color=0e75b6&style=flat" alt="krishramani02" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishramani02" alt="krishramani02" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishramani2&label=Profile%20views&color=0e75b6&style=flat" alt="krishramani2" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishramani2" alt="krishramani2" /></a> </p>
 
 - 🔭 I’m currently working on [WhatsApp Business Crm](https://github.com/RushabhRamani123/WhatsApp-Business-crm-.git)
 
@@ -21,9 +22,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/krishramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishramani" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22230502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22230502" height="30" width="40" /></a>
 <a href="https://kaggle.com/krishramani2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="krishramani2" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rag_light_26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rag_light_26" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/krishramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="krishramani" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/krishramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishramani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
