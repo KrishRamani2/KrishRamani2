@@ -88,9 +88,12 @@
     </a> 
 </p>
 
+![](https://leetcard.jacoblin.cool/KrishRamani?ext=heatmap)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishramani2&show_icons=true&locale=en&layout=compact" alt="krishramani2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishramani2&show_icons=true&locale=en" alt="krishramani2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishramani2&" alt="krishramani2" /></p>
-![](https://leetcard.jacoblin.cool/KrishRamani?ext=heatmap)
+
+
