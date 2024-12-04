@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishramani2&label=Profile%20views&color=0e75b6&style=flat" alt="krishramani2" /> </p>
 
-- 🔭 I’m currently working on [WhatsApp Business Crm](https://github.com/RushabhRamani123/WhatsApp-Business-crm-.git)
+- 🔭 I’m currently working on [WhatsApp Business Crm]([https://github.com/RushabhRamani123/WhatsApp-Business-crm-.git](https://github.com/RushabhRamani123/What-sApp_Crm_Project))
 
 - 🌱 I’m currently learning **Machine Learning**
 
