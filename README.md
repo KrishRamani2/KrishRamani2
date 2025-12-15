@@ -8,6 +8,10 @@
 
 - 🔭 I’m currently working on [WhatsApp Business Crm]([https://github.com/RushabhRamani123/WhatsApp-Business-crm-.git](https://github.com/RushabhRamani123/What-sApp_Crm_Project))
 
+- 🏆 **Smart India Hackathon (SIH) 2025 Winner**
+
+- 🚀 10× Hackathon **Finalist** 
+
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://krish-ramani.vercel.app/](https://krish-ramani.vercel.app/)
