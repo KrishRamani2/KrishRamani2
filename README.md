@@ -124,6 +124,7 @@
 </a>
 
 </p>
+
 ![](https://leetcard.jacoblin.cool/KrishRamani?ext=heatmap)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishramani2&show_icons=true&locale=en&layout=compact" alt="krishramani2" /></p>
